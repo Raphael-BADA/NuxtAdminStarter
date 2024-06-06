@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 06 Jun 2024 14:41:08 at https://coderthemes.com/ubold/layouts/default/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://coderthemes.com/ubold/layouts/default/index.html -O1 "C:\Users\RAPHAEL\Documents\HttpTracktest" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:43:37	Error: 	"Not Found" (404) at link https://coderthemes.com/ubold/layouts/default/extras-profile.html (from https://coderthemes.com/ubold/layouts/default/contacts-list.html)
+14:43:38	Error: 	"Not Found" (404) at link https://coderthemes.com/ubold/layouts/default/cropped.jpg (from https://coderthemes.com/ubold/layouts/default/forms-image-crop.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 30 seconds : 417 links scanned, 414 files written (34889450 bytes overall) [9050432 bytes received at 60336 bytes/sec], 30657347 bytes transferred using HTTP compression in 342 files, ratio 15%, 27.8 requests per connection
+(2 errors, 0 warnings, 0 messages)
